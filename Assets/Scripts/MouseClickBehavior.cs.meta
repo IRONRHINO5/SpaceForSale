@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9f87e808d3a645145bc4ba96dfa59686
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Rocket: {fileID: 21300000, guid: fbfcdc67f5ebcfc468d4756b46a666f0, type: 3}
+  - Blaster: {fileID: 21300000, guid: a354f35c2cbb59749b85672abfa60be2, type: 3}
+  - UFO: {fileID: 21300000, guid: ec67f1993de280341a6801e7aa91c0cc, type: 3}
+  - Helmet: {fileID: 21300000, guid: 803e91fb47c0f4b4186934192e56348a, type: 3}
+  - Satellite: {fileID: 21300000, guid: 46253fafb00d1494c95bec6ce93e9406, type: 3}
+  - Flag: {fileID: 21300000, guid: dd3ae4845262d5e48b4485ce032bc887, type: 3}
+  - empty: {fileID: 21300000, guid: 9b88a35a493006043b74ac3d2790ab0a, type: 3}
+  - RocketPrefab: {fileID: 100000, guid: 2cccd6deeb1fecb44962209bcf98e71a, type: 3}
+  - BlasterPrefab: {fileID: 100000, guid: bf462a456b8eb8241bb4fd92f837532e, type: 3}
+  - UFOPrefab: {fileID: 100000, guid: 3a9c54cbde25062419aac026a61bb5f7, type: 3}
+  - HelmetPrefab: {fileID: 100000, guid: f955f0956d12e6040aa9f63bb768ad42, type: 3}
+  - SatellitePrefab: {instanceID: 0}
+  - FlagPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

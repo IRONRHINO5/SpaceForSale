@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d4937a3b28571b04293b08bfb0ac7eac, type: 3}
+  m_Name: Camera Profile Demo - Target
+  m_EditorClassIdentifier: 
+  showInputSettings: 0
+  showLimitSettings: 0
+  showHelp: 0
+  InputSystem: 0
+  MoveMode: 3
+  TargetOffset: {x: 0, y: 0, z: -11}
+  MouseScrollWheelInputName: Mouse ScrollWheel
+  ZoomInKey: 0
+  ZoomOutKey: 0
+  CameraDragKey: 0
+  CameraResetKey: 0
+  CamHeight: 8
+  CamSpeed: 0.3
+  CamHeightSpeedMulti: 2
+  CamZoomMin: 6
+  CamZoomMax: 10
+  OrthNearPlane: -50
+  OrthFarPlane: 50
+  CamFOVMin: 40
+  CamFOVMax: 60
+  PersNearPlane: 0.02
+  PersFarPlane: 100
+  CamVerticalMin: -20
+  CamVerticalMax: 65
+  CamHorizontalMin: -20
+  CamHorizontalMax: 15

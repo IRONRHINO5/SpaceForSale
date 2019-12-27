@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a360dbe6a6c15424fa22168d1d372e8d
+timeCreated: 1541190058
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Astron Boy Video
+  fontNames:
+  - Astron Boy Video
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

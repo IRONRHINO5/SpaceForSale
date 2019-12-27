@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fff2a5ae60ccddc4684e3303de965cc8
+timeCreated: 1541190058
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Okuda
+  fontNames:
+  - Okuda
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
